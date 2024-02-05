@@ -59,6 +59,10 @@ body{
 
 }
 
+.weather ,.weather_information{
+    display: none;
+ }
+
 .weather{
    
     padding: 20px;
@@ -107,4 +111,8 @@ body{
     margin-top: -7px;
     font-size: 30px;
     margin:0;
+ }
+
+ .weather ,.weather_information{
+    display: none;
  }
